@@ -18,5 +18,6 @@ Naïve prompts produced short, simple responses with less detail.
 Basic prompts generated more structured, detailed, and meaningful outputs.
 Across all scenarios, basic prompts improved quality and depth, while accuracy remained generally correct in both cases.
 Naïve prompts worked adequately only for very simple questions.
+
 RESULT: 
 Basic (structured) prompts consistently produce better quality, higher accuracy, and deeper responses compared to naïve prompts, while naïve prompts are suitable only for quick and simple answers.
